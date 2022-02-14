@@ -15,7 +15,7 @@
 
     //Blog post query
     $result = $post->read();
-    // Get row count
+    //Get row count
     $num = $result->rowCount(); 
 
     //check if any posts

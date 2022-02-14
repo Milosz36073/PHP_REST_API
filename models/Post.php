@@ -1,5 +1,4 @@
 <?php
-
 class Post{
     //DB stuff
     private $conn;

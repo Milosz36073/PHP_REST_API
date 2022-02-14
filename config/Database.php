@@ -1,8 +1,8 @@
 <?php
 /*
-file structure of the project
+file structure
 config - hold our database class core connection to database using PDO
-models folder our post model and category model
+models folder has our post model and category model
 api folder where we actually hit a http client
 */
 class Database {
